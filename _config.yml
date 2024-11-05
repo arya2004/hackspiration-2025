@@ -40,7 +40,7 @@ event:
   location:    "Hybrid (Online Worldwide + Offline in Pune, India)"
 
   trust_badge:
-    year:   "2025"  # season year
+    year:   "2024"  # season year
     region: "na"    # region can be adjusted based on specific event regions
     color:  "blue"
 
@@ -58,15 +58,15 @@ event:
   # Info Sections
   info:
     sections:
-      - image: "images/learn.png"
+      - image: "images/image2.png"
         title: "LEARN."
         description: >
           Dive into hands-on workshops and sessions on emerging tech trends like Web3, Generative AI, and more.
-      - image: "images/build.png"
+      - image: "images/image3.png"
         title: "BUILD."
         description: >
           Join top minds to bring innovative ideas to life, leveraging cutting-edge tools and resources.
-      - image: "images/inspire.png"
+      - image: "images/image1.png"
         title: "INSPIRE."
         description: >
           Create impactful solutions, earn rewards, and inspire others in the global hackathon community.
