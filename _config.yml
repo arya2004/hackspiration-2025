@@ -30,7 +30,7 @@ social:
 seo:
   title:       "Hackspiration 2025 | 5-6 February 2025"
   description: "Join us for Hackspiration 2025, a hackathon brought to you by Vishwakarma Institute of Technology's Microsoft Learn Student Club. Dive into Web3, Generative AI, IoT, and Cloud Computing!"
-  image:       "image/mlsc-hackathon.png"
+  image:       "images/mlsc-hackathon.png"
 
 # Event information.
 event:
@@ -41,7 +41,7 @@ event:
 
   trust_badge:
     year:   "2025"  # season year
-    region: "in"    # region can be adjusted based on specific event regions
+    region: "na"    # region can be adjusted based on specific event regions
     color:  "blue"
 
   hero:
