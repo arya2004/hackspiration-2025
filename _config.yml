@@ -5,7 +5,7 @@
 # If you are hosting in a sub-folder, for example: https://mlh.github.io/mlh-hackathon-boilerplate/,
 # you must specify it as the baseurl
 # If you hosting as a root, for example: htttps://[github username].github.io, then leave it blank
-baseurl: "/mlh-hackathon-boilerplate"
+baseurl: "/hackspiration-2025"
 
 # uncomment the next line if you are hosting as a root and not sub-folder
 # for example, when runnig locally at http://127.0.0.1:4000/
@@ -13,98 +13,93 @@ baseurl: "/mlh-hackathon-boilerplate"
 
 # If you're using GitHub pages without a custom domain, this is "https://[github username].github.io"
 # If you're using GitHub pages with a custom domain, this is "http://[your domain]" (or https if you're using SSL)
-url: "https://mlh.github.io"
+url: "https://arya2004.github.io"
 
 # The ability to use custom themes.
 style:
   theme: "original"
 
 # This will help you track who's visiting your website.
-tracking:
-  google_analytics: "UA-43729070-14"
+
 
 # Let people connect & engage with you through social media.
 social:
-  twitter_handle: "MLHacks"
+  twitter_handle: "mlsc_vit_p"
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "Example Hacks | 5-6 August 2022"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
-  image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
+  title:       "Hackspiration 2025 | 5-6 February 2025"
+  description: "Join us for Hackspiration 2025, a hackathon brought to you by Vishwakarma Institute of Technology's Microsoft Learn Student Club. Dive into Web3, Generative AI, IoT, and Cloud Computing!"
+  image:       "image/mlsc-hackathon.png"
 
 # Event information.
 event:
-  name:        "Example Hacks"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
-  date:        "5 - 6 August 2022"
-  location:    "Holmdel, NJ, United States"
+  name:        "Hackspiration 2025"
+  description: "Hackspiration 2025 is a unique hackathon uniting innovations to transform futures, hosted by Vishwakarma Institute of Technology's Microsoft Learn Student Club."
+  date:        "15 - 20 April 2025"
+  location:    "Hybrid (Online Worldwide + Offline in Pune, India)"
 
   trust_badge:
-    year:   "2017"  # season year
-    region: "eu"    # "na" or "eu"
-    color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
+    year:   "2025"  # season year
+    region: "in"    # region can be adjusted based on specific event regions
+    color:  "blue"
 
   hero:
     links:
       - text: "Apply"
-        my_mlh:
-          client_id:    "0e2f9fc2921d3ad3e12ae900af630d09382e1b3dc1b5b50de2b01b70ad64dbee"
-          redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
+        href: "https://hackspiration-24.devfolio.co"
       - text: "Sponsor"
-        href: "mailto:sponsorship@website.com"
+        href: "mailto:mlsc@vit.edu"
 
   about:
     description: >
-      Example Hacks is a hackathon hosted at The University of Example.
-      This is your opportunity to describe your event, what to expect, where it is & anything unique to your event.
-      Keep it straightforward, don't make it too long.
+      Hackspiration 2025 invites participants into a tech playground focused on Web3, Generative AI, IoT, and Cloud Computing. Join 800+ tech enthusiasts in April for workshops, networking, and exciting rewards. Don't miss out on shaping tomorrow’s tech landscape!
 
   # Info Sections
   info:
     sections:
-      - image: "images/image1.png"
+      - image: "images/learn.png"
         title: "LEARN."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
-      - image: "images/image2.png"
+          Dive into hands-on workshops and sessions on emerging tech trends like Web3, Generative AI, and more.
+      - image: "images/build.png"
         title: "BUILD."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
-      - image: "images/image3.png"
-        title: "SHARE."
+          Join top minds to bring innovative ideas to life, leveraging cutting-edge tools and resources.
+      - image: "images/inspire.png"
+        title: "INSPIRE."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+          Create impactful solutions, earn rewards, and inspire others in the global hackathon community.
 
   # Frequently asked questions.
   faq:
-    - question: "What is a hackathon?"
+    - question: "What is Hackspiration 2025?"
       answer: >
-        A hackathon is an invention marathon. Students come together to build cool
-        software & hardware hacks over 24-48 hours. It's [very beginner friendly](https://medium.com/@tfogo/hackathons-are-for-beginners-77a9c9c0e000#.cj21niskl).
+        Hackspiration 2025 is a hackathon hosted by Vishwakarma Institute of Technology's Microsoft Learn Student Club, designed to foster innovation in areas like Web3, Generative AI, IoT, and Cloud Computing.
     - question: "How much does it cost?"
       answer: >
-        Nothing. Attending a hackathon is free.
-    - question: "Do I need to be a student to attend?"
+        Nothing at all! Hackspiration 2025 is free for everyone.
+    - question: "Who can participate?"
       answer: >
-        Yes. Only students who are currently enrolled at a college/university or
-        have graduated within the past 12 months are eligible to attend.
+        Everyone is welcome—students, professionals, and tech enthusiasts from all backgrounds!
     - question: "Where is the event?"
       answer: >
-        The event is being hosted at [insert venue location here].
-    - question: "What is Major League Hacking?"
+        Hackspiration 2025 is a hybrid event, held online worldwide and in-person at Pune, India.
+    - question: "What networking opportunities are available?"
       answer: >
-        Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
-        We work with over 200 Member Events and empower over 70,000 students every year.
-    - question: "Is there a code of conduct?"
+        Hackspiration 2025 includes networking sessions with peers, mentors, sponsors, and industry experts, accessible both online and offline.
+    - question: "Will there be any problem statements?"
       answer: >
-        Yes there is. We enforce it very strongly. You can [find it here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
+        Specific problem statements may be released closer to the event. Most tracks are open-ended but will follow specific guidelines provided.
+    - question: "Is there a referral program?"
+      answer: >
+        Yes! Refer friends to earn exclusive swag like t-shirts, hoodies, and more. Top referrers win exclusive Hackspiration merchandise.
 
   # This is the message you'll receive once you've registered.
   register:
     message: >
-      You'll receive more information closer to the hackathon.
-
+      Thank you for registering for Hackspiration 2025! Look out for more information closer to the event.
+      
 # ----------------------------------------------------
 # -- Ignore this unless you know what you're doing. --
 # ----------------------------------------------------
